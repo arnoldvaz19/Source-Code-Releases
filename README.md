@@ -34,3 +34,19 @@
 - [Statistics](https://github.com/arnoldvaz27/Statistics/releases/tag/1.0)
 
 - [Word And Character Counter](https://github.com/arnoldvaz27/Word-And-Character-Counter/releases/tag/1.0)
+
+- [Pdf Reader](https://github.com/arnoldvaz27/Pdf-Reader/releases/tag/1.0)
+
+- [Notebook](https://github.com/arnoldvaz27/Notebook/releases/tag/1.0)
+
+- [Countries Of Americas](https://github.com/arnoldvaz27/CountriesOfAmericas/releases/tag/1.0)
+
+- [Countries Of Europe](https://github.com/arnoldvaz27/CountriesOfEurope/releases/tag/1.0)
+
+- [Countries Of Africa](https://github.com/arnoldvaz27/CountriesOfAfrica/releases/tag/1.0)
+
+- [Countries Of Oceanic](https://github.com/arnoldvaz27/CountriesOfOceanic/releases/tag/1.0)
+
+- [Countries Of World](https://github.com/arnoldvaz27/CountriesOfWorld/releases/tag/1.0)
+
+- [Countries Of Asia](https://github.com/arnoldvaz27/CountriesOfAsia/releases/tag/1.0)
